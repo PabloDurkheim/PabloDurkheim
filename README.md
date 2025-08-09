@@ -1,6 +1,6 @@
 <!-- Banner animado estilo retrô -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnkwY3lxMzNoYjcxMTd6N3kxOHI1ZjR3aG1meHhnb2xvZHpxbDZrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="200" alt="Pixel Animation">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnkwY3lxMzNoYjcxMTd6N3kxOHI1ZjR3aG1meHhnb2xvZHpxbDZrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="150" alt="Pixel Animation">
 </p>
 
 <h1 align="center">🎮 Bem-vindo ao meu Perfil!</h1>
